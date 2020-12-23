@@ -1,0 +1,32 @@
+h1, p span {
+    color:red;
+}
+
+h2 {
+    background: rgb(0,128,0);
+    color: #FFFFFF;
+}
+
+.can {
+    height: 100px;
+    box-sizing: border-box;
+    padding: 35px 0px 0px 50px;
+}
+
+.form {
+    margin-left: 100px;
+}
+
+ul li {
+    border: 1px solid black;
+}
+
+.dz {
+    background: #0000ff;
+    width: 100px;
+    color: #FFFFFF;
+}
+
+.p1 {
+    margin-top: 100px;
+}
